@@ -1,0 +1,19 @@
+{
+    "name": "pxt-SGBotic-watersensor",
+    "version": "0.1",
+    "description": "Makdecode extension for pH and Dissolved Oxygen Sensor",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*",
+        "radio": "*"
+    },
+    "files": [
+        "README.md",
+        "watersensor.ts",
+        "base.ts"
+    ],
+    "testFiles": [
+        "tests.ts"
+    ],
+    "public": true
+}
